@@ -13,5 +13,3 @@ def roll_call_dwarves(dwarves)
     puts "#{index + 1}. #{dwarf}"
   end
 end
-
-roll_call_dwarves(dwarves)
